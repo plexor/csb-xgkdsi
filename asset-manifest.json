@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://plexor.github.io/csb-xgkdsi/static/css/main.1e39348c.chunk.css",
+    "main.js": "https://plexor.github.io/csb-xgkdsi/static/js/main.ca3d7992.chunk.js",
+    "main.js.map": "https://plexor.github.io/csb-xgkdsi/static/js/main.ca3d7992.chunk.js.map",
+    "runtime-main.js": "https://plexor.github.io/csb-xgkdsi/static/js/runtime-main.40bdadd4.js",
+    "runtime-main.js.map": "https://plexor.github.io/csb-xgkdsi/static/js/runtime-main.40bdadd4.js.map",
+    "static/js/2.41dc12dc.chunk.js": "https://plexor.github.io/csb-xgkdsi/static/js/2.41dc12dc.chunk.js",
+    "static/js/2.41dc12dc.chunk.js.map": "https://plexor.github.io/csb-xgkdsi/static/js/2.41dc12dc.chunk.js.map",
+    "index.html": "https://plexor.github.io/csb-xgkdsi/index.html",
+    "precache-manifest.2ed6f2ce44eb209991c09284d7d62a54.js": "https://plexor.github.io/csb-xgkdsi/precache-manifest.2ed6f2ce44eb209991c09284d7d62a54.js",
+    "service-worker.js": "https://plexor.github.io/csb-xgkdsi/service-worker.js",
+    "static/css/main.1e39348c.chunk.css.map": "https://plexor.github.io/csb-xgkdsi/static/css/main.1e39348c.chunk.css.map",
+    "static/js/2.41dc12dc.chunk.js.LICENSE.txt": "https://plexor.github.io/csb-xgkdsi/static/js/2.41dc12dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40bdadd4.js",
+    "static/js/2.41dc12dc.chunk.js",
+    "static/css/main.1e39348c.chunk.css",
+    "static/js/main.ca3d7992.chunk.js"
+  ]
+}
