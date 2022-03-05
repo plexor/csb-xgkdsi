@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1416e1772c48dc97ebc83289a64945ed",
+    "revision": "ae9eac1e9d73b2e2b6930c3957bc4eb8",
     "url": "https://plexor.github.io/csb-xgkdsi/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://plexor.github.io/csb-xgkdsi/static/css/main.1e39348c.chunk.css"
   },
   {
-    "revision": "d6a2ce4698cb0ea25880",
-    "url": "https://plexor.github.io/csb-xgkdsi/static/js/2.41dc12dc.chunk.js"
+    "revision": "0d7a3fcc1172cca8a4c1",
+    "url": "https://plexor.github.io/csb-xgkdsi/static/js/2.abf87846.chunk.js"
   },
   {
     "revision": "7c3782a7e65f48d3b45b3ebb61610f23",
-    "url": "https://plexor.github.io/csb-xgkdsi/static/js/2.41dc12dc.chunk.js.LICENSE.txt"
+    "url": "https://plexor.github.io/csb-xgkdsi/static/js/2.abf87846.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4bf46851007a9127813e",
